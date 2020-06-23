@@ -1,7 +1,8 @@
 # Projects-of-Data-Science
 
 This entire repository contains of data science project using machine learning concepts and deep learning concept .
-Consists of five different domain . 
+Consists of five different domain :
+
 Task #1 @Human Resources Department: Develop an AI model to Reduce hiring and training costs of employees by predicting which employees might leave the company.
 
 Task #2 @Marketing Department: Optimize marketing strategy by performing customer segmentation
