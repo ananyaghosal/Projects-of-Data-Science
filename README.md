@@ -12,4 +12,3 @@ Task #4 @Operations Department: Develop Deep Learning model to automate and opti
 
 Task #5 @Public Relations Department: Develop Natural Language Processing Models to analyze customer reviews on social media and identify customers sentiment.
 
-Task #6 @Production/Maintenance Departments: Develop defect detection, classification and localization models.
